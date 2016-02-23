@@ -8,6 +8,7 @@
     "url": "https://github.com/kreichert/mocha-rollup-json-reporter"
   },
   "dependencies": {
+    "underscore": "1.8.x",
     "mocha": "*"
   }
 }
